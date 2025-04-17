@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-kumbhSans: Kumbh Sans , sans-serif;
+  --color-darkCyan: hsl(185, 75%, 39%);
+  --color-veryDarkDesaturatedBlue: hsl(229, 23%, 23%);
+  --color-darkGrayishBlue: hsl(227, 10%, 46%);
+  --color-darkGray: hsl(0, 0%, 59%);
+}
