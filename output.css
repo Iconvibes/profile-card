@@ -180,14 +180,44 @@
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
-  .bg-\[u\] {
-    background-color: u;
+  .bg-\[\.\/\] {
+    background-color: ./;
   }
-  .bg-\[ur\] {
-    background-color: ur;
+  .bg-\[\.\/images\/\] {
+    background-color: ./images/;
+  }
+  .bg-\[\.\/images\/bg-patter\] {
+    background-color: ./images/bg-patter;
+  }
+  .bg-\[\.\/images\/bg-pattern-bott\] {
+    background-color: ./images/bg-pattern-bott;
+  }
+  .bg-\[\.\/images\/bg-pattern-bottom\.svg\] {
+    background-color: ./images/bg-pattern-bottom.svg;
+  }
+  .bg-\[\.\/images\/bg-pattern-bottom\] {
+    background-color: ./images/bg-pattern-bottom;
+  }
+  .bg-\[\.\/images\/bg-pattern\] {
+    background-color: ./images/bg-pattern;
+  }
+  .bg-\[\.\/images\/bg\] {
+    background-color: ./images/bg;
+  }
+  .bg-\[\.\/images\] {
+    background-color: ./images;
+  }
+  .bg-\[url-\] {
+    background-color: url-;
   }
   .bg-\[url\] {
     background-color: url;
+  }
+  .bg-\[url\(\)\] {
+    background-image: url();
+  }
+  .bg-\[url\(\.\/\)\] {
+    background-image: url(./);
   }
   .font-kumbhSans {
     font-family: var(--font-kumbhSans);
